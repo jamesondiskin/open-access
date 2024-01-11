@@ -1,2 +1,6 @@
-# open-access
+# Open Access Project
 Open Source, DIY Accessibility Controller Intended for Gamers with Disabilities
+
+My name is Jameson Diskin and for my High School Senior project, I am in the process of developing a fully do-it-yourself game controller for players with disabilities. I believe that in the modern world, video games are one of the best ways to connect people, especially youth. It's an immersive form of entertainment with some of the most unique experiences and in a field of such creative freedom, everyone should have the chance to unwind with a fun game after a long day's work. Unfortunately, for individuals with physical disabilities, the entrypoint is expensive, tedious, and overly complicated. Finding compatible hardware for a particular disability is nothing short of exhausting, and the first party products are riddled with compromises from a lack of proper expansion to a barebones stock experience, my goal is to create a multiplatform controller that is not only modular, but can adapt to you.
+
+Made with a custom PCB, a 3D printed chassis, and various arcade components, my Open Access project takes the philosophy of products like the Xbox Adaptive Controller and its counterparts, but expands them to nearly every modern gaming platform.
